@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import ModalityController from '../controllers/ModalityController';
+import ModalityController from '../modules/Modality/controller';
 
 const modalityRoutes = Router();
 
